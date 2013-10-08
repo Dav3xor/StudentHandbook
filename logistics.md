@@ -48,6 +48,13 @@ If you run into an issues with payments or ability to pay it is important that y
 
 NedSpace WifiPassword - this is sensitive information, so see a staff member, one of your peers, or postings around NedSpace.
 
+## Online Presence
+
+* Official website: [PDXCodeGuild.com](http://PDXCodeGuild.com)
+* [PDX Code Guild GitHub](https://github.com/PdxCodeGuild/)
+* [PDX Code Guild Wiki](https://github.com/PdxCodeGuild/pdxcodeguild.com/wiki)
+* IRC Channel: [#PDXCodeGuild](http://webchat.freenode.net?channels=%23PDXCodeGuild) on Freenode
+
 ## Blocks + Scheduling
 
 You are always welcome to use NedSpace to work, and we may have some time to say hi and even help a bit, your main learning work is scheduled in blocks. You have an allocation of blocks per week based on your status. See the structure on the website here.
